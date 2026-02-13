@@ -7,7 +7,7 @@ with open('cookies.txt', 'r') as cookies:
 
 bot = commands.Bot(command_prefix='.')
 
-token = 'YOUR BOT TOKEN'
+token = 'MTQ3MTU0MjA3MjQ4NTA4NTI3Nw.Gvrm0D.wH1nl2gyIS-0cGSJg1OS34QE3QYu5ZhPQvetI4'
 
 @bot.event
 async def on_ready():
